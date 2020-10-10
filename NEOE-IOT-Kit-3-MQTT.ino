@@ -1,6 +1,6 @@
 /********************************************************************************
   Arduino-Sketch für das NEOE IOT-Kit 3, "Thermometer und Hygrometer mit 
-  DHT22/AM2302 und NodeMCU. Kompatibel mit Arduino, MQTT, Node-RED" 
+  DHT22/AM2302 und NodeMCU. Kompatibel mit Arduino, MQTT und Node-RED" 
   https://www.neoe.io/products/neoe-iot-kit-3-modell-a
   Fragen und Anregungen bitte in unserer Facebook-Gruppe adressieren,
   damit die gesamte Community davon profitiert. 
