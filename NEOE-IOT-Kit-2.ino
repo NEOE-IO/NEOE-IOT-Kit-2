@@ -1,8 +1,8 @@
 /**********************************************************************************************************************************
-  Arduino-Sketch für das NEOE-IOT-Kit-3, "Thermometer und Hygrometer mit DHT22/AM2302 und NodeMCU. Arduino-Programmierung.
-  MQTT-kompatibel zur Anbindung an Home Assistant."
+  Arduino-Sketch für das NEOE-IOT-Kit-2, "Thermometer und Hygrometer mit DHT22/AM2302, LCD-Display und NodeMCU. 
+  Arduino-Programmierung. MQTT-kompatibel zur Anbindung an Home Assistant."
   Dieser Arduino-Sketch wird in folgendem Tutorial verwendet:
-  https://www.neoe.io/blogs/tutorials/thermometer-und-hygrometer-mqtt-kompatibel-aufbau-variante-breadboard
+  https://www.neoe.io/blogs/tutorials/thermometer-und-hygrometer-lcd-mqtt-kompatibel-aufbau-variante-breadboard
   Fragen und Anregungen bitte in unserer Facebook-Gruppe adressieren, damit die gesamte Community davon profitiert. 
   https://www.facebook.com/groups/neoe.io/
   Datum der letzten Änderung: 2. November, 2020
