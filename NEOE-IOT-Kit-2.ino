@@ -23,7 +23,7 @@ const char* password = "WLAN-PASSWORT"; // Anführungszeichen beibehalten, also 
 
 // Die für den MQTT-Server erforderlichen Daten hier hinterlegen
 const char* mqtt_client = "NEOE-IOT-KIT-3-1"; // Wenn mehrere "NEOE IOT-Kits 3" im Einsatz sind, einfach mit der letzten Zahl durchnummerieren
-const char* mqttServer = "IP-ADRESSE DES MQTT-SERVERS"; // Anführungszeichen beibehalten, also z.B. so: "192.168.0.236"
+const char* mqtt_server = "IP-ADRESSE DES MQTT-SERVERS"; // Anführungszeichen beibehalten, also z.B. so: "192.168.0.123"
 const uint16_t mqtt_port = 1883;
 const char* mqtt_user = "BENUTZERNAME"; // Anführungszeichen beibehalten
 const char* mqtt_password = "PASSWORT"; // Anführungszeichen beibehalten, also z.B. so: "Geheim"
